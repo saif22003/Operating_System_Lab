@@ -1,2 +1,20 @@
-# Operating_System_Lab
-This repository contains the codes and practice programs for Operating System Lab of my 5th semester. Here I will keep all the lab exercises, practice codes, and implementations related to Operating System concepts such as process scheduling, memory management, synchronization, deadlock handling, and file systems.
+# 🖥️ Operating System Lab (5th Semester)
+
+This repository contains all the codes and practice programs for my **Operating System Lab** in the 5th semester.  
+Here I will store different lab exercises and implementations related to Operating System concepts.
+
+---
+
+## 📌 Objectives
+- To understand the fundamental concepts of Operating Systems.
+- To practice different algorithms and techniques used in OS.
+- To implement process management, memory management, and synchronization problems.
+- To prepare lab assignments and viva questions.
+
+---
+
+## 📂 Topics Covered
+- ✅ Process Scheduling (FCFS With and Without Arival Time)
+
+---
+
